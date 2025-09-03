@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+.backgrounddiv {
+  width: 100vw;
+}
+.header1 {
+  width: 100%;
+  height: 44px;
+  display: flex;
+}
