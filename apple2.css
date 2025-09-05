@@ -182,3 +182,212 @@
   font-weight: 700;
   line-height: 20px; /* 142.857% */
 }
+.scroll4zurag {
+  width: 100%;
+  height: 558px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 60px 0;
+  gap: 24px;
+}
+.thelastfont {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 133.333% */
+  background: linear-gradient(90deg, #0090f7 0%, #ba62fc 50%, #f2416b 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.letthefont {
+  color: #6e6e73;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 133.333% */
+}
+.textdiv1 {
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+}
+.scrollfirst {
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  gap: 20px;
+}
+.sizescroll {
+  width: 480px;
+  height: 500px;
+  background-size: cover;
+  border-radius: 20px;
+}
+.applefont2 {
+  color: #b64400;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+}
+.iphonefont2 {
+  color: #1d1d1f;
+  font-family: Inter;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 123.077% */
+  letter-spacing: 0.196px;
+}
+.iphone999 {
+  color: #1d1d1f;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 111.111% */
+}
+.zurag1 {
+  background-image: url(./store-card-50-holiday-iphone-pro-202411_GEO_US.png);
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.zurag2 {
+  background-image: url(./store-card-50-holiday-watch-s10-202411.png);
+  display: flex;
+  flex-direction: column;
+}
+.zurag3 {
+  background-image: url(./store-card-50-holiday-ipad-mini-202411.png);
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.zurag4 {
+  background-image: url(./store-card-50-holiday-macbook-pro-202411.png);
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.paddingfont {
+  gap: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.paddingfont1 {
+  gap: 10px;
+  padding-top: 54px;
+  padding-left: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.scroll5zurag {
+  width: 100%;
+  height: 558px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.scrollsecond {
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  gap: 20px;
+}
+.sizescrollsecond {
+  width: 400px;
+  height: 500px;
+  background-size: cover;
+  border-radius: 30px;
+}
+.zuragsecond1 {
+  background-image: url(./store-card-40-holiday-engraving-202411.png);
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.zuragsecond3 {
+  background-image: url();
+}
+.makefont {
+  width: 197px;
+  height: 66px;
+  color: #1d1d1f;
+  font-family: Inter;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 123.077% */
+  letter-spacing: 0.196px;
+  padding-top: 53px;
+  padding-left: 30px;
+}
+.sizescrollsecond3 {
+  width: 313px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 2px 4px 12px 0 rgba(0, 0, 0, 0.08);
+}
+.scroldotroh2 {
+  width: 230px;
+  height: 390px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.button5 {
+  width: 230px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+.doodtext1 {
+  width: 100%;
+  height: 109px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.freefont1 {
+  color: #b64400;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+}
+.airpodmax1font {
+  color: #1d1d1f;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 111.111% */
+  padding-top: 8px;
+}
+.pricefont1 {
+  color: #1d1d1f;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px; /* 128.571% */
+  padding-top: 57px;
+}
